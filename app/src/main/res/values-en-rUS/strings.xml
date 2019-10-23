@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Strings de menu de opciones
+    <string name="app_name">AppContact</string>
+    <string name="agregar_contacto">Add contact</string>
+    <string name="eliminar_contacto">Delete contact</string>
+    <string name="buscar_contacto">Search contact</string>
+    <string name="listar_contactos">List contacts</string>
+    <string name="consultar_contactos">Birthday contacts</string>
+    //Strings de Agregar contacto
+    <string name="titulo_agregar_contacto">ADD CONTACT</string>
+    <string name="titulo_opciones">OPTIONS</string>
+    <string name="fecha_de_nacimiento">Date of birth</string>
+    <string name="direccion_postal">Post address</string>
+    <string name="apellido">Last name</string>
+    <string name="telefono">Cellphone</string>
+    <string name="guardar">Save</string>
+    <string name="atras">Go back</string>
+    <string name="fecha">Date</string>
+    <string name="nombre">Name</string>
+    //String de informacion de contacto
+    <string name="boton_eliminar_contacto">Delete contact</string>
+    <string name="imagen_contacto">Imagen contacto</string>
+    <string name="imagen_llamar">Imagen llamar</string>
+    <string name="imagen_modificar">Imagen modificar</string>
+    <string name="boton_salir">Exit</string>
+    //String de buscador de contacto
+    <string name="buscar">Buscar</string>
+    <string name="cajaBuscador">Insert name or last name</string>
+    //String de modificar Contacto
+    <string name="titulo_Modificar_Contacto">Modify</string>
+    //String de Bienvenida
+    <string name="image_snoopy">imagen de fondo de bienvenida</string>
+</resources>
